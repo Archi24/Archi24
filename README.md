@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Archi Mittal</h1>
-<h3 align="center">I'm a B.TECH student at KIET GROUP OF INSTITUTION pursuing bachelor's degree in Information Technology.A Competitive Programmer,DSA Enthusiast  and a WebDeveloper.</h3>
-<h3 align="center">I'm currently learning ML.</h3>
+<h3 align="center">I'm a Passionate Software Engineer.A Competitive Programmer,DSA Enthusiast  and a WebDeveloper.</h3>
+<h3 align="center">I'm  working on Innovative solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archi24" alt="archi24" /></a> </p>
 
